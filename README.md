@@ -43,9 +43,9 @@ const helena = {
 
 ### 📊 GitHub Stats
 
-![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=50HJ&show_icons=true&theme=tokyonight)
+![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=50HJ&show_icons=true&theme=ambient_gradient)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=50HJ&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=50HJ&layout=compact&theme=ambient_gradient)
 
 ### 🌟 Featured Projects
 
